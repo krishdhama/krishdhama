@@ -1,46 +1,102 @@
-<!-- ===================== TERMINAL PROFILE CARD ===================== -->
-<table width="100%">
-  <tr>
-    <td width="32%" align="center" valign="top">
-      <br>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius: 10px;" />
-      <h2>Krish Dhama</h2>
-      <p><code>@krishdhama</code></p>
-      <p>🎓 <b>B.Tech IT</b> @ DTU</p>
-      <p>📍 Delhi, India</p>
-      <br>
-      <a href="https://github.com/krishdhama"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a><br><br>
-      <a href="https://www.linkedin.com/in/krish-dhama-9821a8321/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    </td>
-    <td width="68%" valign="top">
+<table>
+<tr>
+
+<td width="34%" valign="top" align="center">
+
+<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=700&q=80" width="100%" alt="AI Developer"/>
+
+<h2>Krish Dhama</h2>
+
+<p><code>@krishdhama</code></p>
+
+<br>
+
+🎓 <b>B.Tech IT @ DTU</b><br><br>
+📍 Delhi, India<br><br>
+🤖 AI • Agentic AI • Computer Vision
+
+<br><br>
+
+<a href="https://github.com/YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:krishdhama05@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</td>
+
+<td width="66%" valign="top">
 
 ```yaml
-krish@github:~$
----------------------------------------------------------
-Handle     : @krishdhama
-Location   : Delhi, India
-Education  : B.Tech, Information Technology (DTU)
-Focus      : AI • Agentic Systems • Computer Vision
+krish@github                                            ● ONLINE
 
-❖ ROLES & ACHIEVEMENTS
----------------------------------------------------------
-CyberSec Intern  : CERT-In (Threat Analysis)
-Society Member   : DTU Altair (Aerospace & CanSat)
-Winner           : CBS CodeFest 2.0 (SAHAYAK AI)
-Problem Solver   : 500+ DSA Problems
+Handle        : @krishdhama
+Location      : Delhi, India
+Education     : B.Tech Information Technology (DTU)
+Focus         : Agentic AI • Computer Vision • Autonomous Systems
+
+❖ EXPERIENCE
+──────────────────────────────────────────────────────────────
+
+Cyber Security Intern      CERT-In
+Member                     DTU Altair (CanSat)
+Winner                     CBS CodeFest 2.0
+Problem Solver             500+ DSA Problems
 
 ⌘ TECH STACK
----------------------------------------------------------
-Languages  : Python, C++, SQL
-AI / ML    : LangGraph, Gemini API, YOLOv8, OpenCV, RAG
-Backend    : FastAPI, Flask
-Frontend   : Flutter
-Databases  : Firebase, Cloud Firestore, SQLite
-Tools      : Git, GitHub, VS Code, Jupyter, Postman
+──────────────────────────────────────────────────────────────
+
+Languages      Python • C++ • SQL • Dart
+
+AI / ML        LangGraph • Gemini API
+               YOLOv8 • OpenCV • RAG
+
+Backend        FastAPI • Flask
+
+Frontend       Flutter
+
+Database       Firebase • Cloud Firestore
+               SQLite
+
+Tools          Git • GitHub • VS Code
+               Android Studio • Postman
 
 🚀 CURRENTLY WORKING ON
----------------------------------------------------------
-• CanSat Project @ DTU Altair 
-  - Building a miniaturized satellite simulation.
-  - Integrating telemetry, sensors, and comms systems.
-• Majdoor Haq (AI Hiring Platform)
+──────────────────────────────────────────────────────────────
+
+CanSat @ DTU Altair
+
+• Building a miniaturized satellite
+  for autonomous aerial missions.
+
+• Integrating telemetry, onboard sensors,
+  flight software and wireless communication
+  for real-time monitoring.
+
+📦 PERSONAL PROJECTS
+──────────────────────────────────────────────────────────────
+
+◆ Majdoor Haq
+  AI hiring platform for autonomous job
+  matching and wage negotiation.
+
+◆ SAHAYAK
+  AI assistive platform for dementia
+  patients using computer vision.
+
+◆ Violence Detection System
+  Deep learning web application for
+  real-time violence detection.
+
+```
+
+</td>
+
+</tr>
+</table>
